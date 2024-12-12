@@ -15359,5 +15359,36 @@
     "starchyLabel": "Penne",
     "soupLabel": "Panais/courge",
     "dessertLabel": "Mousse aux poires et caramel \"maison"
+  },
+  {
+    "id": "zz12122024",
+    "code": "ZZ",
+    "menuType": "A la carte",
+    "dishType": "Plat Hypocalorique",
+    "vegetableType": "Légume Normal",
+    "starchyType": "Penne",
+    "soupType": "Potage",
+    "dessertType": "Dessert",
+    "date": "12/12/2024",
+    "dishLabel": "Filet de poulet sauce brune au romarin et échalotes",
+    "vegetableLabel": "Haricots aux oignons",
+    "starchyLabel": "Penne",
+    "soupLabel": "Panais/courge",
+    "dessertLabel": "Mousse aux poires et caramel \"maison"
+  },
+  {
+    "code": "A1",
+    "menuType": "A la tarte",
+    "dishType": "Plat Hypocalorique",
+    "vegetableType": "Légume Normal",
+    "starchyType": "Penne",
+    "soupType": "Potage",
+    "dessertType": "Dessert",
+    "date": "12/12/2024",
+    "dishLabel": "Filet de boeuf sauce rouge au romarin et escalope",
+    "vegetableLabel": "Haricots aux chignons",
+    "starchyLabel": "Penne",
+    "soupLabel": "Panais/courge",
+    "dessertLabel": "MILKSHAKE!"
   }
 ]
