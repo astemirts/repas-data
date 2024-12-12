@@ -1,0 +1,92 @@
+[
+  {
+    "id": "b001",
+    "firstName": "Jean-Claude",
+    "lastName": "Van Damme",
+    "addressStreetName": "Rue des Guillemins",
+    "addressHouseNumber": "25",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b002",
+    "firstName": "Angèle",
+    "lastName": "Van Laeken",
+    "addressStreetName": "Boulevard d'Avroy",
+    "addressHouseNumber": "156",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b003",
+    "firstName": "Benoît",
+    "lastName": "Poelvoorde",
+    "addressStreetName": "Rue Saint-Gilles",
+    "addressHouseNumber": "83",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b004",
+    "firstName": "Stromae",
+    "lastName": "Van Haver",
+    "addressStreetName": "Quai de la Batte",
+    "addressHouseNumber": "12",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b005",
+    "firstName": "Marie",
+    "lastName": "Gillain",
+    "addressStreetName": "Rue Hors-Château",
+    "addressHouseNumber": "45",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b006",
+    "firstName": "Cécile",
+    "lastName": "de France",
+    "addressStreetName": "En Féronstrée",
+    "addressHouseNumber": "92",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b007",
+    "firstName": "Philippe",
+    "lastName": "Gilbert",
+    "addressStreetName": "Rue Saint-Léonard",
+    "addressHouseNumber": "176",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b008",
+    "firstName": "Sandra",
+    "lastName": "Kim",
+    "addressStreetName": "Mont Saint-Martin",
+    "addressHouseNumber": "33",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b009",
+    "firstName": "Johnny",
+    "lastName": "Hallyday",
+    "addressStreetName": "Rue des Carmes",
+    "addressHouseNumber": "17A",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  },
+  {
+    "id": "b010",
+    "firstName": "Annie",
+    "lastName": "Cordy",
+    "addressStreetName": "Rue Louvrex",
+    "addressHouseNumber": "89",
+    "addressCity": "Liège",
+    "addressPostalCode": "4000"
+  }
+]
