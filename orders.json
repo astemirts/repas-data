@@ -1,30 +1,13 @@
 [
   {
-    "id": "o-001",
-    "date": "2024-12-13T14:00:00Z",
-    "quantity": 2,
-    "beneficiaryId": "b003",
-    "status": 0,
-    "menuCompositionId": "zz06122024",
-    "appointmentId": "apt008"
-  },
-  {
-    "id": "o-002",
-    "date": "2024-12-14T14:00:00Z",
-    "quantity": 2,
-    "beneficiaryId": "b003",
-    "status": 0,
-    "menuCompositionId": "zz06122024",
-    "appointmentId": "apt008"
-  },
-  {
     "id": "o-003",
     "date": "2024-01-08T14:00:00Z",
     "quantity": 2,
     "beneficiaryId": "b003",
     "status": 0,
     "menuCompositionId": "zz06122024",
-    "appointmentId": "apt036"
+    "appointmentId": "apt036",
+    "texture": 1
   },
   {
     "id": "o-004",
@@ -33,6 +16,7 @@
     "beneficiaryId": "b003",
     "status": 0,
     "menuCompositionId": "zz06122024",
-    "appointmentId": "apt037"
+    "appointmentId": "apt037",
+    "texture": 0
   }
 ]
