@@ -10,7 +10,27 @@
     "texture": 1
   },
   {
+    "id": "o-0031",
+    "date": "2024-01-08T14:00:00Z",
+    "quantity": 2,
+    "beneficiaryId": "b003",
+    "status": 0,
+    "menuCompositionId": "zz06122024",
+    "appointmentId": "apt036",
+    "texture": 1
+  },
+  {
     "id": "o-004",
+    "date": "2024-01-08T14:00:00Z",
+    "quantity": 2,
+    "beneficiaryId": "b003",
+    "status": 0,
+    "menuCompositionId": "zz06122024",
+    "appointmentId": "apt037",
+    "texture": 0
+  },
+  {
+    "id": "o-0041",
     "date": "2024-01-08T14:00:00Z",
     "quantity": 2,
     "beneficiaryId": "b003",
